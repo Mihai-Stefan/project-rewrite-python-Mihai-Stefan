@@ -1,0 +1,7 @@
+Definition from the net:
+[http://www.math.wsu.edu/mathlessons/html/womeninmath/division.html]
+The division algorithm for integers states that given any two integers a and b, with b > 0,
+we can find integers q and r such that 0 < r < b and a = bq + r.
+
+The numbers q and r should be thought of as the quotient and remainder that result when b is divided into a.
+Of course the remainder r is non-negative and is always less that the divisor, b.
